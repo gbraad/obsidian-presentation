@@ -7,7 +7,7 @@
 A short introductory presentation about [Obsidian](https://obsidian.md/), using Obsidian itself. Start with [[Slides]].
 
 This repository contains a pre-configured Obsidian Vault with several useful plugins:
-  * Advanced Slides
+  * Advanced Slides (no math plugin)
   * Excalidraw
   * Dataview
   * Fullscreen

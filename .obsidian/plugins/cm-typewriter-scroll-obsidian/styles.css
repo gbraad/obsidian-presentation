@@ -1,0 +1,19 @@
+body.plugin-cm-typewriter-scroll-zen .CodeMirror-lines:not(.selecting) .CodeMirror-code > :not(.CodeMirror-activeline) {
+  opacity: var(--zen-opacity);
+}
+body.plugin-cm-typewriter-scroll-zen .cm-editor.cm-focused .cm-line:not(.cm-active) {
+  opacity: var(--zen-opacity);
+}
+
+body.plugin-cm-typewriter-scroll-zen .CodeMirror-lines.selecting .CodeMirror-code > .CodeMirror-activeline {
+  background-color: #333333;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+body.plugin-cm-typewriter-scroll-zen .cm-editor.cm-focused .cm-line.cm-active {
+  background-color: #333333;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+

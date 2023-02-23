@@ -1,0 +1,21 @@
+{
+  "port": "3030",
+  "autoReload": true,
+  "exportDirectory": "/export",
+  "enableChalkboard": false,
+  "enableOverview": false,
+  "enableMenu": false,
+  "enablePointer": false,
+  "enableTimeBar": false,
+  "theme": "white",
+  "highlightTheme": "tomorrow-night-bright",
+  "transition": "slide",
+  "transitionSpeed": "default",
+  "controls": true,
+  "progress": true,
+  "slideNumber": false,
+  "showGrid": false,
+  "autoComplete": "inPreview",
+  "paneMode": "tab",
+  "motm": "2023-02-21T05:34:58.954Z"
+}
